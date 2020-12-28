@@ -1,0 +1,9 @@
+﻿  Before.cpp
+  repeat.cpp
+  Source.cpp
+C:\Users\Admin\source\repos\Project13.2(1)\Project13.2(1)\Source.cpp(16,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Source1.cpp
+  true.cpp
+  var.cpp
+  Generating Code...
+  Project13.2(1).vcxproj -> C:\Users\Admin\source\repos\Project13.2(1)\Debug\Project13.2(1).exe
